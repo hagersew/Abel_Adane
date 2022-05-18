@@ -5,7 +5,9 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Goals: Contribute more to Open Source projects
 - ⚡ I love to play games, but AFK for a long time.
+### CodeWars
 
+ <a target="_blank" href="https://www.codewars.com/users/hagersew"><img src="https://www.codewars.com/users/hagersew/badges/large" alt="codewars badge large" /></a>
 ### Languages and Tools:
 
 <img align="left" alt="JavaScript" src="https://img.icons8.com/color/36/000000/javascript.png"/>
