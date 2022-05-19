@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Goals: Contribute more to Open Source projects
-- ⚡ I love to play games, but AFK for a long time.
+- ⚡ I love to play games.
 ### CodeWars
 
  <a target="_blank" href="https://www.codewars.com/users/hagersew"><img src="https://www.codewars.com/users/hagersew/badges/large" alt="codewars badge large" /></a>
