@@ -1,4 +1,4 @@
-### Hi, I'm Abel Adane ![image](https://user-images.githubusercontent.com/31157776/225231442-77f9691e-ba3b-4781-a604-c0f66270a73c.png)
+### Hi, I'm Abel Adane <img src="https://github.com/hagersew/hagersew/blob/master/Wave.gif" height="55px" width="55px">
 
 
 ## I'm a Frontend Developer.
