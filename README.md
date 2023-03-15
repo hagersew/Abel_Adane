@@ -1,4 +1,5 @@
-### Hi, I'm Abel Adane 👋
+### Hi, I'm Abel Adane ![image](https://user-images.githubusercontent.com/31157776/225231442-77f9691e-ba3b-4781-a604-c0f66270a73c.png)
+
 
 ## I'm a Frontend Developer.
 - 🌱 I’m currently learning everything 🤣
