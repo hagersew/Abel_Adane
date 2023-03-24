@@ -1,12 +1,15 @@
-### Hi, I'm Abel Adane <img src="https://github.com/hagersew/hagersew/blob/master/Wave.gif" height="55px" width="55px">
+### Hi, I'm Abel <img src="https://github.com/hagersew/hagersew/blob/master/Wave.gif" height="55px" width="55px">
 
 
-## I'm a Frontend Developer.
+## Frontend Developer;
 
+- 🔭 I’m currently working on [Presence Browser](https://presencebrowser.com) in the Frontend Team
+- 💬 Ask me about anything tech related, I am happy to help;
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Goals: Contribute more to Open Source projects
 - ⚡ I love to play games.
-
+- 📫 How to reach me:
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/abeldotadane) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&style=social)](https://t.me/abeldotexe) [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/hagersewdotcom) [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=social)](mailto:contacttoabel@gmail.com)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hagersew&label=Profile%20views&color=0e75b6&style=flat" alt="Abel Adane" /> </p>
 
