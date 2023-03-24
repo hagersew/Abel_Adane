@@ -2,7 +2,7 @@
 
 
 ## I'm a Frontend Developer.
-- 🌱 I’m currently learning everything 🤣
+
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Goals: Contribute more to Open Source projects
 - ⚡ I love to play games.
