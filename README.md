@@ -13,7 +13,7 @@ Frontend Developer
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hagersew&label=Profile%20views&color=0e75b6&style=flat" alt="Abel Adane" /> </p>
 
-# Languages and Tools:
+Languages and Tools:
 
 <img align="left" alt="JavaScript" src="https://img.icons8.com/color/36/000000/javascript.png"/>
 <img align="left" alt="TypeScript" src="https://img.icons8.com/color/36/000000/typescript.png"/>
