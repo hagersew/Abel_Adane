@@ -1,7 +1,7 @@
-# Hi, I'm Abel <img src="https://github.com/hagersew/hagersew/blob/master/Wave.gif" height="55px" width="55px">
+Hi, I'm Abel <img src="https://github.com/hagersew/hagersew/blob/master/Wave.gif" height="55px" width="55px">
 
 
-# Frontend Developer;
+Frontend Developer
 
 - 🔭 I’m currently working on [Presence Browser](https://presencebrowser.com) in the Frontend Team
 - 💬 Ask me about anything tech related, I am happy to help;
